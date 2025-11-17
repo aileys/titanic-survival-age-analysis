@@ -1,5 +1,4 @@
 # Titanic Survival Age Analysis
-
 This project analyzes the relationship between **passenger age** and **survival outcomes** on the RMS Titanic. Using Python, I compute descriptive statistics (mean, median, range), survival percentages, and visualize age distributions for both survivors and non-survivors.
 
 This project demonstrates Python data analysis skills, statistical thinking, and data visualization techniques.
