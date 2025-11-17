@@ -7,15 +7,15 @@ This project demonstrates Python data analysis skills, statistical thinking, and
 
 ## 📁 Project Structure
 
+```
 titanic-survival-age-analysis/
-├── final.py # Main analysis script
+├── final.py
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 └── data/
-  └── titanic.csv # Dataset used in the analysis
-
----
+    └── titanic.csv
+```
 
 ## 📊 What the Script Calculates
 
